@@ -1,7 +1,7 @@
-<h1 align="center"><b> Hello, my name is Team Z. Ready to give you some delectable meals <b></h1>
+<h1 align="center"><b> Hello, my name is Mr Z. Ready to give you some delectable meals <b></h1>
 <p align="center">This is my Recipe Website that i developed. </p>
 <br>
-  <h2><em>Hi</em></h2>
+  <h2><em>Preview</em></h2>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
